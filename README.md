@@ -27,4 +27,3 @@ A saída exibida será:
 - Estruturas condicionais
 - Interpolação de strings com template literals
 
-## 💻 Como Executar
